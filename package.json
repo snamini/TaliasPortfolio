@@ -1,0 +1,22 @@
+{
+  "name": "taliaport",
+  "version": "1.0.0",
+  "description": "**Material Design Portfolio Template**\r v1.0.1\r Released Date: 24th Jan, 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snamini/TaliasPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snamini/TaliasPortfolio/issues"
+  },
+  "homepage": "https://github.com/snamini/TaliasPortfolio#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
